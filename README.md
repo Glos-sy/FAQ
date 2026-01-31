@@ -21,5 +21,20 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-css-flexbox-css-media-queries-T5WMN8qslA]
+- Live Site URL: [https://glos-sy.github.io/FAQ/]
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Desktop-first workflow
+- CSS Media Queries
+
+## Author
+
+- Website - [Banire Ayobomi](https://banire-ayobomi-portfolio.vercel.app/)
+- Frontend Mentor - [@Glos-sy](https://www.frontendmentor.io/profile/Glos-sy)
